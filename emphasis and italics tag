@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emphasis and Italics </title>
+</head>
+<body>
+  <h1>Emphasis vs Italics</h1>
+
+  <p>This sentence uses <em>emphasis</em> to stress the importance of certain words.</p>
+
+  <p>This sentence uses <i>italics</i> just to style the text differently.</p>
+
+  <p>You can even combine them: <em><i>This is important and also styled in italics</i></em>.</p>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Important Notice</title>
+</head>
+<body>
+    <!-- Write your code here-->
+     <h1>Event Update</h1>
+     <p>The event date has changed to <strong>October 15. </strong>Please update your calenders.</p>
+     <p>For every reasons,<strong> masks are required</strong> inside the venue.</p>
+</body>
+</html>

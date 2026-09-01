@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Weather Report</h1>
+  <p>Today's forecast for your city.</p>
+  
+  <hr>
+  
+  <h2>Current Conditions</h2>
+  <p>Temperature: 24°C (75°F)</p>
+  <p>Humidity: 65%</p>
+  
+  <hr>
+  
+  <h2>Day Outlook</h2>
+  <p>Monday: Sunny </p>
+  <p>Tuesday: Partly cloudy </p>
+  
+  <hr>
+  
+  <p>Report updated: 10:00 AM</p>
+</body>
+</html>

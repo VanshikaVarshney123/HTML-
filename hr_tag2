@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Profile Page</title>
+</head>
+<body>
+  <!-- Write your code here-->
+   <h1>About Me</h1>
+   <p>This is a short introduction about me. I enjoy learning new skills and connecting with people.</p>
+   <hr>
+   <h2>My Hobbies</h2>
+   <p>I like reading books, hiking, and programming. These hobbies keep me creative and active.</p>
+   <hr>
+   <h2>Contact Me</h2>
+   <p>email@example.com</p>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Line Break</title>
+</head>
+<body>
+  <h2>Poem with break Tags</h2>
+  <p>
+    Roses are red<br>
+    Violets are blue<br>
+    Sugar is sweet<br>
+    And so are you
+  </p>
+</body>
+</html>

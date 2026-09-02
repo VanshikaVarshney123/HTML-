@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emphasis vs Italic</title>
+</head>
+<body>
+<h1>Movie Review</h1>
+<p>I think<i> The Secret Garden</i> is a beautiful movie.</p>
+<p>You should <em>definitely watch it</em>- it's worth your time.</p>
+<hr>
+<p>Remember: i tag changes how text looks, em tag changes meaning.</p>
+</body>
+</html>

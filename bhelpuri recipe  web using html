@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Bhelpuri Recipe</title>
+      </head>
+      <body>
+        <h1>Bhelpuri Recipe</h1>
+        <p> In this recipe we are going to learn how to make no fire food in which we will made bhelpuri....</p>
+        <h2> Ingredients</h2>
+        <ul>
+          <li>tomato</li>
+           <li>onion</li>
+           <li>murmura</li>
+            <li>bhujia namkeen</li>
+             <li>4 different ketchups or sauces</li>
+              <li>basic masale with maggie masala</li>
+               <li>mixture namkeen</li>
+                <li>makhana</li>
+                </ul>
+                <h2>Instructions</h2>
+                <ol>
+                  <li>first peel out onion and tomato</li>
+                  <li>now, add murmura and both namkeens in a tumbler</li>
+                  <li>add all masale and makhanas, and then mix with ketcups</li>
+                  <li>mix it well</li>
+                  </ol>
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8fEBDErbptyO1d_HveQEUFQ44npTlCY0nb5-VnjeBA&s=10" alt="a tasty and fresh bhelpuri">
+                  </body>
+                  </html>

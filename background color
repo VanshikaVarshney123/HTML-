@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Background Color and Image</title>
+    <style>
+        body {
+            background-color: blue;
+            background-image: url("images/background.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to My Web Page</h1>
+    <p>This page demonstrates background color and background image using CSS.</p>
+
+</body>
+</html>

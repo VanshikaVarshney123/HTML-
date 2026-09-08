@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Display Image with Attributes</title>
+</head>
+<body>
+
+    <h1>Image Display Example</h1>
+
+    <img src="images/nature.jpg" 
+         alt="A beautiful view of nature" 
+         width="400" 
+         height="300" 
+         align="center" 
+         border="2">
+
+</body>
+</html>
